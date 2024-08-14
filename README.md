@@ -18,8 +18,8 @@ Esta aplicación basada en microservicios permite la gestión de usuarios y de i
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/inventory-microservices.git
-    cd inventory-microservices
+    git clone https://github.com/SDDrouet/crud-inventario-microservicios
+    cd crud-inventario-microservicios
     ```
 
 2. Construye y levanta los servicios con Docker Compose:
